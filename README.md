@@ -1,5 +1,5 @@
 🚀 Siva Subramanian
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> </p> <h3 align="center">💻 Full Stack Developer | 🤖 AI Enthusiast | ⚡ Automation Builder</h3>
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> </p> <h3 align="center">🤖 AI Enthusiast | ⚡ Automation Builder</h3>
 👋 About Me
 name: Siva Subramanian
 location: Chennai, India
