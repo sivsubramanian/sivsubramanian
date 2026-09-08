@@ -1,4 +1,8 @@
-# 🚀 Siva Subramanian M
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=SIVASUBRAMANIAN+M;Project+Coordinator+%40+Mediant+Labs;AI-Augmented+Delivery+Strategist" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
