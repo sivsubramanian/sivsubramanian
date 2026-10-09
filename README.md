@@ -28,8 +28,43 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Animation"/>
 </p>
+
+<p align="center">
+  <a href="https://sivsubramanian.github.io/Personal-3D-portfolio/">
+    <img src="https://img.shields.io/badge/3D_Portfolio-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:sivasufriend@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sivsubramanian">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+<!-- LIVE ANIMATED CONTRIBUTION HEATMAP -->
+<h3><code>sivsubramanian@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Sivasubramanian's Live GitHub Contribution Graph — Auto-refreshed Daily" />
+
+<br>
+<br>
+
+<!-- LIVE STATS & STREAK TERMINAL CARD -->
+<h3><code>sivsubramanian@github ~ $ ./stats.sh</code></h3>
+
+<img src="./stats.svg" width="840" alt="Sivasubramanian's Activity Stats & Streak Card" />
+
+</div>
+
+<br>
 
 ---
 
