@@ -36,8 +36,8 @@
     <img src="https://img.shields.io/badge/Portfolio_1-sivasubramanianm.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio 1" />
   </a>
   &nbsp;
-  <a href="https://sivsubramanian.github.io/Personal-3D-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio_2-Yet_to_publish-30363d?style=for-the-badge&logo=three.js&logoColor=white" alt="Portfolio 2" />
+  <a href="https://sivasubramanian-m.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_2-sivasubramanian--m.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio 2" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sivasubramanian8/" target="_blank">
